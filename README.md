@@ -19,3 +19,8 @@ Practice Python - Create some program solutions using Python
    -> Creating a simple Tkinter window.
    -> Add the Roll button and label it on the window.
    -> Creating a function to roll the dice.
+4. Calculator - This zip file will guide you and give you a basic idea to create a GUI-based simple calculator using the Python Tkinter module, which can perform basic arithmetic operations addition, subtraction, multiplication, and division. Creating a GUI using Tkinter is an easy task.
+   -> Importing the module – Tkinter
+   -> Create the main window (container)   
+   -> Add any number of widgets to the main window
+   -> Apply the event Trigger on the widgets.
