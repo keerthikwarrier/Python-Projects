@@ -15,3 +15,7 @@ Practice Python - Create some program solutions using Python
    -> Create a result label to show the result set font and other properties to it
    -> Create three pushbuttons for rock, paper, and scissors respectively
    -> Create a reset button to reset the game.
+3. Rolling the Dice in Games - This zip file will guide you and give you a basic idea to create Rolling The Dices Game using Tkinter and a random module in Python. A random module in Python is a built-in module used to generate random numbers for various distributions. Here, we will use this module to create random outcomes for our dice. Python offers various libraries to put our needs at ease and Tkinter is one of them. Tkinter is a standard library of Python with the help of which we can create Graphical User Interface applications easily and add widgets like buttons, scrollbars, text boxes, and labels to them. Let’s break the task in three parts:
+   -> Creating a simple Tkinter window.
+   -> Add the Roll button and label it on the window.
+   -> Creating a function to roll the dice.
